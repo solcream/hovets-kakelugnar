@@ -1,0 +1,207 @@
+#kolumn5 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn6 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn7 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn8 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+
+ #kolumn9 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+
+ #kolumn10 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+
+ #kolumn11 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+ #kolumn12 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn5 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn6 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn7 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn8 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+
+ #kolumn9 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+
+ #kolumn10 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+
+ #kolumn11 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+ #kolumn12 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+#kolumn5 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn6 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn7 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+ #kolumn8 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+
+ #kolumn9 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+
+
+ #kolumn10 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+
+ #kolumn11 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+ #kolumn12 {
+ float: left;
+ width: 200px; 
+ padding: 5px;
+ color: black;
+ }
+ 
+
+
+<p><a href="hovets.html">Hem</a></p>
+   <p><a href="Våra hus.html">Våra hus</a></p>
+   <p><a href="Inspiration.html">Inspiration</a></p>
+   <p><a href="Om oss.html">Om oss</a></p>
+  <p><a href="Tjänster">Tjänster</a></p>
+   <p><a href="Kontakt.html">Kontakt</a></p>
+   <p><a href="Galleri.html">Galleri</a></p>
+
+  
+
+
+ 
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+

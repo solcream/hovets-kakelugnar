@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+        <div class="html_boxed responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_center html_bottom_nav_header html_menu_right html_custom html_header_sticky_disabled html_header_shrinking_disabled html_mobile_menu_tablet html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled html_elegant-blog html_av-submenu-hidden html_av-submenu-display-click html_av-overlay-side html_av-overlay-side-classic html_av-submenu-noclone html_entry_id_383 av-no-preview html_text_menu_active"></div>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width-device=width, initial-scale=1">
+<meta name="keywords" content="">
+<meta name="robots" content="index,follow">
+<meta name="HandheldFriendly" content="true">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link href="Hovets.css" rel="stylesheet"
+type="text/css">  
+ </head>
+ <body> 
+     <header>
+        <img class="oven-734551__340.jpg" src="oven-734551__340.jpg">
+        <p><a href="file:///C:Users/per/Desktop/elle%20decoration/ellestartsida.html">Hem</a></p></header>
+<div class="row-block one-column exclude-infinity "></div> 

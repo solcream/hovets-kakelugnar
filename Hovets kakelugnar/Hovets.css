@@ -1,0 +1,98 @@
+
+footer {
+  background-color:grey; 
+}
+
+header {
+background-image:
+url(PIX-H4JNKR.jpg);
+color: #ffffff;
+text-align: center;
+    margin: 0px;
+    padding: 50px;
+    font-size: 50px;
+
+}
+
+body {
+    background-color: lightgrey; 
+}
+
+.bilder {
+    text-align: center;
+    width: 50px;
+    height: 50px;
+    padding: 0;
+    align-items: center;
+  }
+
+
+ 
+#kolumn5 {
+ float: right;
+ width: 30%; 
+ padding: 0px;
+ color: black;
+ }
+
+ #kolumn6 {
+ float: right;
+ width: 30%; 
+padding: 0px;
+ color: black;
+ }
+
+ #kolumn7 {
+ float: right;
+ width: 30%; 
+ padding: 0px;
+ color: black;
+ }
+
+ 
+ #kolumn13{
+ float: right;
+ width: 200px; 
+padding: 20px;
+ color: black;
+ }
+
+
+ #kolumn14 {
+ float: right;
+ width: 200px; 
+padding: 20px;
+ color: black;
+ }
+
+ 
+ #kolumn15 {
+ float: right;
+ width: 200px; 
+padding: 20px;
+ color: black;
+ }
+
+
+ #kolumn16 {
+ float: right;
+ width: 200px; 
+padding: 20px;
+ color: black;
+ }
+
+ #kolumn17 {
+ float: right;
+ width: 200px; 
+padding: 20px;
+ color: black;
+ }
+
+
+ #kolumn18 {
+ float: right;
+ width: 200px; 
+padding: 20px;
+ color: black;
+ }
+

@@ -1,0 +1,56 @@
+<div style="float: right; border: solid"#00FF00; width: 795px;">
+             <div>
+<p class="kolumn8" style="text-align: center;">
+Vi sätter upp din kakelugn på ett säkert sätt, som du kan lita på.	
+</p>
+<p class="kolumn9" style="text-align: center;">											
+Hovets kakelugnar AB bygger ditt sten och tegelhus.
+</p>
+<p class="kolumn10" style="text-align: center;">
+	Vi murar kakelugnar, plocka ner och sätter upp kakelugnarskorstenar, trappor, bygger öppen spis, badrum, golv och väggar.
+</p>
+<p class="kolumn11" style="text-align: center;">
+	Vi gör allt från din husgrund till sista spetstoppen.​​
+</p>
+</div>
+
+	
+ <div class="column step-6-12 step-5-8">
+ <div id="site-container-9909" class="Container ModuleElement Textarea con-164 " data-snap="1" data-containertype="Textarea" data-moduleelement="4674">
+															<div class="Module-4674 Textarea">
+																<h2 class="custom25"><span style="color: rgb(255, 255, 255);">HUR LÄNGE VILL DU ATT HUSET SKA STÅ?​</span></h2>
+<p class="custom22">
+	<strong><span style="color: rgb(255, 255, 255);"><a href="/ny/kontakt.aspx" target="_self" class="custom24"><u>Kontakta oss</u></a></span> </strong><span style="color: rgb(255, 255, 255);">för ett samtal om ditt ​nästa byggprojekt​</span>
+</p>
+															</div>
+														</div>
+													</div>
+
+																											</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div><div class="column step-6-12 step-5-6">
+														<div id="site-container-6576" class="Container Placeholder con-90 " data-snap="1">
+															<div class="row">
+																<div class="column step-6-12">
+																	<div id="site-container-6575" class="Container ModuleElement Textarea con-72 " data-snap="1" data-containerType="Textarea" data-moduleElement="3558">
+																		<div class="Module-3558 Textarea">
+																			<p class="custom16">
+	  															<div class="Module-4673 Textarea">
+																<p style="text-align: center;">
+												</div>
+											</div>
+										</div><div class="column step-6-12">
+											<div id="site-container-9908" class="Container Placeholder con-163 " data-snap="1">
+												<div class="row">
+													<div class="column step-6-12 step-5-2 step-5-offset-2">
+														<div id="site-container-9910" class="Container ModuleElement Textarea con-165 " data-snap="1" data-containerType="Textarea" data-moduleElement="4673">
+															
+	<span id="site-container-9952" class="Container ModuleElement Image Inline con-166  inline-element" data-snap="1" data-containerType="Image" data-moduleElement="4826"><img src="/CustomerData/Files/Images/Archive/6-ikoner/home-page-vit_812.png" alt="home-page-vit" /></span>​
+</p>
+
+<a href="Kontakt.html">Kontakta oss</a>	
+
+  <h4>copyright &#169;2019  Hovets kakelugnar AB <a href="/">My site</a></h4>
